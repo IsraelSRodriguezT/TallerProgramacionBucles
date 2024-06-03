@@ -5,7 +5,6 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con
 `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 
 ------------------------------------------------
---
 
 1. **Suma de los dígitos de un número**
   - `do while`: `Tarea0528/Ejercicio1/Suma_digitos_Do_While.c`
