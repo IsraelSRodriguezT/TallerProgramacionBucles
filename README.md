@@ -7,8 +7,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con
 ------------------------------------------------
 
 1. **Suma de los dígitos de un número**
-  - `do while`: `Tarea0528/Ejercicio1/Suma_digitos_Do_While.c`
-  - `for`: `Tarea0528/Ejercicio1/Suma_digitos_For.c` 
+  - `do while`: `https://github.com/IsraelSRodriguezT/TallerProgramacionBucles0206/blob/main/Tarea0528/Ejercicio1/Suma_digitos_Do_While.c` 
+  - `for`: https://github.com/IsraelSRodriguezT/TallerProgramacionBucles0206/blob/main/Tarea0528/Ejercicio1/Suma_digitos_For.c
   - `while`: `Tarea0528/Ejercicio1/Suma_digitos_While.c` 
 2. **Inverso de un numero**
   - `do while`: `Tarea0528/Ejercicio2/Inverso_numero_Do_While.c`
